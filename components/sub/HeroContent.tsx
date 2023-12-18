@@ -43,8 +43,8 @@ export default function HeroContent() {
           variants={slideInFromLeft(0.8)}
           className="text-lg text-gray-400 my-5 max-w-[600px]"
         >
-          I'm a Full Stack Software Engineer with experience in Website, Mobile
-          and Software development. Check out my project and skills
+          I&apos;m a Full Stack Software Engineer with experience in Website,
+          Mobile and Software development. Check out my project and skills
         </motion.p>
         <motion.a
           variants={slideInFromLeft(1)}
